@@ -123,7 +123,7 @@
   <section class="section" id="contact">
     <h3>Contact Us</h3>
     <p>Email: <a href="mailto:info@nexarcwelding.com">info@nexarcwelding.com</a><br />
-       Phone: 0400 000 000<br />
+       Phone: 0423 586 564<br />
        Based in Australia — available nationwide and remote.</p>
   </section>
   <footer>
